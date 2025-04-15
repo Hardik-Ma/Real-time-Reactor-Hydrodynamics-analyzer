@@ -21,7 +21,7 @@ This module captures real-time tracer (Resazurin dye) dispersion in a Coiled Flo
 | Automated Dye Injection System | Peristaltic pump in combination with 3 way valve | This method was only used for low flowrates |
 
 ### Hardware Set Up Schematic 
-![Schematic Manual Injection] (Images/Automatic_Dye_Injection_System.png)
+![Manual Dye Injection](Images/Manual_Dye_Injection_System.png)  
 *Fig 1: Manual Dye Injection Schematic
 
 ![Schematic Automatic Injection] (Images/Automatic_Dye_Injection_System.png)

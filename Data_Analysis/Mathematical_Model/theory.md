@@ -5,9 +5,9 @@
 ### 1. CSTR Dynamics
 The mass balance for the **CSTR** (Continuous Stirred-Tank Reactor) with logistic growth kinetics is:
 
-\[
+$$
 \frac{dX_{\text{CSTR}}}{dt} = \underbrace{\frac{F}{V} (X_{\text{PFR, out}} - X_{\text{CSTR}})}_{\text{Flow term}} + \underbrace{\mu_{\text{max}} X_{\text{CSTR}} \left(1 - \frac{X_{\text{CSTR}}}{X_{\text{max}}}\right)}_{\text{Logistic growth}}
-\]
+$$
 
 Where:
 - \( X_{\text{CSTR}} \): Biomass concentration in the CSTR (OD or g/L).
